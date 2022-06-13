@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Geek Out</string>
+    <string name="register">Register</string>
+    <string name="login">Sign In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="register_new_user">Register New User</string>
+    <string name="warning_title">Warning</string>
+    <string name="user_already_exist">This username already exists. Head back to the Sign In page or register a new user.</string>
+    <string name="OK">Ok</string>
+    <string name="password_doesnt_match">Password does not match.</string>
+    <string name="close_app_message">Do you want to close the app ?</string>
+    <string name="confirm_phrase">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="home_text">Welcome to your Homepage</string>
+    <string name="books">Books</string>
+    <string name="movies">Movies</string>
+    <string name="games">Games</string>
+    <string name="user_doesnt_exist_message">This user does not exist. Please click on \"Register\" and fill out the fields to register a account.</string>
+</resources>
