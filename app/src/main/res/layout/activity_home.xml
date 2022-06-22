@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/background"
+    android:background="@drawable/appbackground06"
     tools:context=".HomeActivity"
     >
 
@@ -24,7 +24,6 @@
         android:id="@+id/homeTV"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="casual"
         android:textSize="25dp"
         android:textColor="@color/text_02"
         android:text="@string/home_text"

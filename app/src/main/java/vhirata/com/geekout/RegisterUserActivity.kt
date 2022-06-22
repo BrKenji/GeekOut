@@ -14,6 +14,7 @@ import vhirata.com.geekout.model.User
 class RegisterUserActivity : AppCompatActivity() {
 
     private lateinit var userET: EditText
+    private lateinit var emailET: EditText
     private lateinit var passwordET: EditText
     private lateinit var confirmPasswordET: EditText
 
@@ -24,6 +25,7 @@ class RegisterUserActivity : AppCompatActivity() {
         setContentView(R.layout.activity_register_user)
 
         userET = findViewById(R.id.registerUsernameET)
+        emailET = findViewById(R.id.registerEmailET)
         passwordET = findViewById(R.id.registerPasswordET)
         confirmPasswordET = findViewById(R.id.registerConfirmPasswordET)
 

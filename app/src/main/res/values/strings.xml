@@ -19,4 +19,5 @@
     <string name="movies">Movies</string>
     <string name="games">Games</string>
     <string name="user_doesnt_exist_message">This user does not exist. Please click on \"Register\" and fill out the fields to register a account.</string>
+    <string name="email">Email Adress</string>
 </resources>
